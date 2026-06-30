@@ -1,0 +1,374 @@
+[
+  {
+    "candidate_id": "CAND_0000017",
+    "name": "Anil Pandey",
+    "reasons": [
+      "Education anomaly: started working in 2014 but graduated in 2022"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0000177",
+    "name": "Saanvi Shetty",
+    "reasons": [
+      "Education anomaly: started working in 2014 but graduated in 2021"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0000435",
+    "name": "Pooja Mishra",
+    "reasons": [
+      "Education anomaly: started working in 2011 but graduated in 2020"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0000444",
+    "name": "Vikram Mukherjee",
+    "reasons": [
+      "Education anomaly: started working in 2014 but graduated in 2022",
+      "Education anomaly: started working in 2012 but graduated in 2022"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0000470",
+    "name": "Om Dutta",
+    "reasons": [
+      "Education anomaly: started working in 2012 but graduated in 2020"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0000491",
+    "name": "Zara Hegde",
+    "reasons": [
+      "Education anomaly: started working in 2013 but graduated in 2021",
+      "Education anomaly: started working in 2012 but graduated in 2021"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0000504",
+    "name": "Aarohi Chopra",
+    "reasons": [
+      "Education anomaly: started working in 2011 but graduated in 2020"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0000541",
+    "name": "Mira Bose",
+    "reasons": [
+      "Education anomaly: started working in 2015 but graduated in 2022"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0000542",
+    "name": "Aadhya Dutta",
+    "reasons": [
+      "Education anomaly: started working in 2014 but graduated in 2021",
+      "Education anomaly: started working in 2013 but graduated in 2021"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0000591",
+    "name": "Yash Saxena",
+    "reasons": [
+      "Education anomaly: started working in 2014 but graduated in 2021"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0000960",
+    "name": "Shreya Vora",
+    "reasons": [
+      "Education anomaly: started working in 2012 but graduated in 2019",
+      "Education anomaly: started working in 2011 but graduated in 2019"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0000972",
+    "name": "Rahul Khanna",
+    "reasons": [
+      "Education anomaly: started working in 2013 but graduated in 2020"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0001012",
+    "name": "Shreya Singh",
+    "reasons": [
+      "Education anomaly: started working in 2014 but graduated in 2021",
+      "Education anomaly: started working in 2013 but graduated in 2021"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0001137",
+    "name": "Atharv Saxena",
+    "reasons": [
+      "Education anomaly: started working in 2011 but graduated in 2020"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0001146",
+    "name": "Dev Trivedi",
+    "reasons": [
+      "Education anomaly: started working in 2013 but graduated in 2021",
+      "Education anomaly: started working in 2012 but graduated in 2021"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0001185",
+    "name": "Aadhya Krishnan",
+    "reasons": [
+      "Education anomaly: started working in 2014 but graduated in 2022",
+      "Education anomaly: started working in 2012 but graduated in 2022",
+      "Education anomaly: started working in 2011 but graduated in 2022"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0001357",
+    "name": "Om Pillai",
+    "reasons": [
+      "Education anomaly: started working in 2012 but graduated in 2020"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0001363",
+    "name": "Arnav Nair",
+    "reasons": [
+      "Education anomaly: started working in 2014 but graduated in 2022",
+      "Education anomaly: started working in 2012 but graduated in 2022"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0001457",
+    "name": "Aarohi Ghosh",
+    "reasons": [
+      "Education anomaly: started working in 2014 but graduated in 2021",
+      "Education anomaly: started working in 2012 but graduated in 2021"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0001503",
+    "name": "Mira Chopra",
+    "reasons": [
+      "Education anomaly: started working in 2013 but graduated in 2020"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0001539",
+    "name": "Siya Ghosh",
+    "reasons": [
+      "Education anomaly: started working in 2013 but graduated in 2020"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0001584",
+    "name": "Riya Naidu",
+    "reasons": [
+      "Education anomaly: started working in 2013 but graduated in 2021",
+      "Education anomaly: started working in 2012 but graduated in 2021"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0001652",
+    "name": "Nikhil Kumar",
+    "reasons": [
+      "Education anomaly: started working in 2011 but graduated in 2019"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0001662",
+    "name": "Sanjay Gupta",
+    "reasons": [
+      "Education anomaly: started working in 2012 but graduated in 2019"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0001709",
+    "name": "Ananya Krishnan",
+    "reasons": [
+      "Education anomaly: started working in 2015 but graduated in 2022"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0001719",
+    "name": "Aryan Mehta",
+    "reasons": [
+      "Education anomaly: started working in 2011 but graduated in 2018"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0001728",
+    "name": "Anil Singh",
+    "reasons": [
+      "Education anomaly: started working in 2013 but graduated in 2020"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0001736",
+    "name": "Arnav Pandey",
+    "reasons": [
+      "Education anomaly: started working in 2014 but graduated in 2021",
+      "Education anomaly: started working in 2013 but graduated in 2021"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0001833",
+    "name": "Deepak Iyer",
+    "reasons": [
+      "Education anomaly: started working in 2013 but graduated in 2021"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0001868",
+    "name": "Jay Bose",
+    "reasons": [
+      "Education anomaly: started working in 2013 but graduated in 2021",
+      "Education anomaly: started working in 2012 but graduated in 2021"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0002017",
+    "name": "Riya Sen",
+    "reasons": [
+      "Education anomaly: started working in 2013 but graduated in 2021",
+      "Education anomaly: started working in 2012 but graduated in 2021"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0002070",
+    "name": "Vikram Naidu",
+    "reasons": [
+      "Education anomaly: started working in 2014 but graduated in 2021",
+      "Education anomaly: started working in 2013 but graduated in 2021"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0002108",
+    "name": "Aarohi Pandey",
+    "reasons": [
+      "Education anomaly: started working in 2014 but graduated in 2022"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0002124",
+    "name": "Aarav Singh",
+    "reasons": [
+      "Education anomaly: started working in 2012 but graduated in 2020"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0002163",
+    "name": "Rohan Pillai",
+    "reasons": [
+      "Education anomaly: started working in 2014 but graduated in 2021",
+      "Education anomaly: started working in 2013 but graduated in 2021"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0002192",
+    "name": "Deepak Chowdary",
+    "reasons": [
+      "Education anomaly: started working in 2014 but graduated in 2022"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0002212",
+    "name": "Aditya Dutta",
+    "reasons": [
+      "Education anomaly: started working in 2015 but graduated in 2022"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0002284",
+    "name": "Vivaan Tiwari",
+    "reasons": [
+      "Education anomaly: started working in 2015 but graduated in 2022"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0002324",
+    "name": "Karan Sharma",
+    "reasons": [
+      "Education anomaly: started working in 2011 but graduated in 2018"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0002334",
+    "name": "Naina Verma",
+    "reasons": [
+      "Education anomaly: started working in 2012 but graduated in 2022"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0002401",
+    "name": "Rohan Goyal",
+    "reasons": [
+      "Education anomaly: started working in 2013 but graduated in 2020",
+      "Education anomaly: started working in 2011 but graduated in 2020"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0002639",
+    "name": "Sneha Rao",
+    "reasons": [
+      "Education anomaly: started working in 2014 but graduated in 2022"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0002648",
+    "name": "Kabir Mukherjee",
+    "reasons": [
+      "Education anomaly: started working in 2011 but graduated in 2022"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0002715",
+    "name": "Aryan Sen",
+    "reasons": [
+      "Education anomaly: started working in 2015 but graduated in 2022",
+      "Education anomaly: started working in 2011 but graduated in 2022"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0002731",
+    "name": "Neha Kumar",
+    "reasons": [
+      "Education anomaly: started working in 2014 but graduated in 2022",
+      "Education anomaly: started working in 2013 but graduated in 2022",
+      "Education anomaly: started working in 2012 but graduated in 2022"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0002861",
+    "name": "Sunil Iyer",
+    "reasons": [
+      "Education anomaly: started working in 2013 but graduated in 2020",
+      "Education anomaly: started working in 2011 but graduated in 2020"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0002863",
+    "name": "Nisha Goyal",
+    "reasons": [
+      "Education anomaly: started working in 2012 but graduated in 2020"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0002877",
+    "name": "Ira Banerjee",
+    "reasons": [
+      "Education anomaly: started working in 2014 but graduated in 2021",
+      "Education anomaly: started working in 2013 but graduated in 2021"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0002928",
+    "name": "Anil Naidu",
+    "reasons": [
+      "Education anomaly: started working in 2011 but graduated in 2020"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0002932",
+    "name": "Sneha Arora",
+    "reasons": [
+      "Education anomaly: started working in 2014 but graduated in 2022"
+    ]
+  }
+]
