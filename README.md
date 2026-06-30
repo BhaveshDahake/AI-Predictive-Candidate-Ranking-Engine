@@ -4,13 +4,13 @@ An AI-powered candidate discovery and ranking engine built for high-performance 
 
 ---
 
-## 🎨 The "Old Money" Dashboard
+## 🎨 TalentArch Dashboard UI
 
 ### 1. Dashboard Overview
-![Overview Page](old_money_dashboard.png)
+![Overview Page](dashboard_overview.png)
 
 ### 2. Search & LTR Candidate Ranking Results
-![Ranking Results Page](old_money_results.png)
+![Ranking Results Page](ranking_results.png)
 
 ---
 
