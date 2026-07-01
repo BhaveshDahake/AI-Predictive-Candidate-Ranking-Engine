@@ -61,3 +61,4 @@ postgres_data/
 .env.production.local
 *.log
 team_*.csv
+talent_nexus.csv
