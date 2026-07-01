@@ -7,7 +7,7 @@ import sys
 
 # Configurations
 JD_FILE = os.environ.get("JD_FILE", r"c:\Users\bhave\Desktop\The Data & AI Challenge\dataset\job_description.txt")
-OUTPUT_CSV = os.environ.get("OUTPUT_CSV", r"c:\Users\bhave\Desktop\The Data & AI Challenge\team_antigravity.csv")
+OUTPUT_CSV = os.environ.get("OUTPUT_CSV", r"c:\Users\bhave\Desktop\The Data & AI Challenge\talent_nexus.csv")
 FLASK_EMBED_URL = f"http://{os.environ.get('ML_HOST', 'localhost')}:{os.environ.get('ML_PORT', '5000')}/embed"
 FLASK_RANK_URL = f"http://{os.environ.get('ML_HOST', 'localhost')}:{os.environ.get('ML_PORT', '5000')}/rank"
 

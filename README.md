@@ -84,13 +84,13 @@ node node_modules\vite\bin\vite.js
 
 ## 🏆 Submission Compilation & Verification
 
-To generate the final competition CSV shortlist (`team_antigravity.csv`) from the database and LTR models, run:
+To generate the final competition CSV shortlist (`talent_nexus.csv`) from the database and LTR models, run:
 ```bash
 # Run the generator script
 .\embedding-service\venv\Scripts\python.exe generate_submission.py
 
 # Run the official hackathon validator
-python "dataset/[PUB] India_runs_data_and_ai_challenge/India_runs_data_and_ai_challenge/validate_submission.py" team_antigravity.csv
+python "dataset/[PUB] India_runs_data_and_ai_challenge/India_runs_data_and_ai_challenge/validate_submission.py" talent_nexus.csv
 ```
 
 **Expected output:**
